@@ -1,0 +1,152 @@
+
+
+
+body{
+  background-image: linear-gradient(to bottom, transparent 40%, deepskyblue);
+  height: 120vh;
+  width: 100%;
+}
+
+
+}
+.b{
+  background-color:;
+}
+.login{
+  translate: center;
+  background-color: white;
+  opacity: 0.7;
+  border-radius: 20px;
+  width: 60vw;
+  height: 50vh;
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-content: center;
+  translate: 33% 30vh;
+  box-shadow: 10px 10px 25px 0 black;
+  
+}
+
+
+.weblogo img{
+  width: 70%;
+  position: absolute;
+  top: 0;
+  translate: -50% -30%;
+  position: absolute;
+  
+  
+}
+
+
+
+
+
+footer{
+  position: fixed;
+  background-color: white;
+  z-index: 9;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0px 50px;
+}
+footer img{
+  width: 5%;
+}
+
+
+
+.logininfo input{
+  padding: 10px 30px;
+  translate: 10% 350%;
+  border: none;
+  
+  
+}
+.logininfo button{
+  
+  background-color: #8ff4ff;
+  opacity: 0.7;
+  padding: 2px 6px;
+  border: none;
+  border-radius: 5px;
+  transform: scale(1.5);
+  translate: 550% 1000%
+}
+
+.logininfo p{
+  translate: 0 350%;
+  text-align: center;
+}
+
+.logininfo a{
+  text-decoration: none;
+  display: block;
+  translate: 35% 1800%;
+  
+}
+
+
+
+input:activ{
+  border-color: black;
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+@keyframes logo{
+  
+  0%{
+    
+    
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  100%{
+    
+    
+    
+  }
+  
+  
+  
+  0%{
+    
+    
+    
+    
+  }
+  
+  
+  
+  
+}
+
+
+
+
+
